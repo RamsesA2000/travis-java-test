@@ -1,7 +1,2 @@
-languaje: java
-jdk: oraclejdk9
-after_success: echo "I´m done"
-notifications:
-email:
-- ramsesmtzgzz@gmail.com
-on_success: always # default: change
+language: java
+jdk: oraclejdk11
